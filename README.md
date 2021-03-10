@@ -35,3 +35,14 @@ I figured out how everything was meant to work ahead of time (based on the desig
 As such, I think I'm just going to directly translate my Java code to Ruby for the next step, since it is damn near the same thing he made.
 I will make one change, though: I'll make GenericItem have an Item as a field rather than a superclass.
 
+Alright, a few hours later I have finished (or more accurately given up on) the Ruby implementation.
+Ruby is interesting, and less frustrating than C++, but the main thin gthat is making me stop is the stack trace for errors, which is unreadable garbage to me.
+I'm sure there is a better way to view errors in Ruby, but I don't want to spend another hour or two on this project figuring that out.
+I got it into a similar state to the C++ code, it runs but doesn't work.
+Yeah, over all, I liked the idea of this kata, but doing it in a two new languages was very stressful for me.
+I like the idea of learning new languages, but I feel like I was thrown in to the thick of things without knowing which way was up.
+Personally, a gentler introduction to a new language would be better.
+Perhaps we could do a project where we only use one new language (perhaps with provided resources) to make a larger program.
+Also, maybe more time than one week on such a project?
+I've spent the better part of my downtime in the last 5 days working on this project, and it's still not done, which is a little ridiculous.
+Perhaps I'm just slow, idk.
