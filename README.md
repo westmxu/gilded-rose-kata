@@ -28,3 +28,9 @@ You can see what I'm going for in the code, but I guess it just doesn't work tha
 I could write much more about my so-far negative experience with C++, but I don't want to make this README as long as the last one.
 The next step is to watch the provided video and then refactor in Ruby, which will hopefully be easier.
 Hopefully.
+
+After watching the video, I have to say that I'm quite surprised that what I produced naturally was so close to what the expert did.
+Of course, I did not go about it in the way he did.
+I figured out how everything was meant to work ahead of time (based on the design/assignment document, not the code) then directly implimented that stuff.
+As such, I think I'm just going to directly translate my Java code to Ruby for the next step, since it is damn near the same thing he made.
+
