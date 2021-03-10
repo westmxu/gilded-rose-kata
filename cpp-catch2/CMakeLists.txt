@@ -36,7 +36,7 @@ add_executable(gildedrose_catch2
         src/GildedRose.h
         src/GildedRose.cc
         test/gildedrose_catch.cpp
-        test/main.cpp)
+        test/main.cpp src/GenericItem.cpp src/GenericItem.h src/QualityRating.cpp src/QualityRating.h src/CheeseItem.cpp src/CheeseItem.h src/ConjuredItem.cpp src/ConjuredItem.h src/TicketItem.cpp src/TicketItem.h src/LegendaryItem.cpp src/LegendaryItem.h src/ItemFactory.cpp src/ItemFactory.h src/Item.h)
 set_target_properties(gildedrose_catch2 PROPERTIES CXX_STANDARD 11)
 target_include_directories(gildedrose_catch2
         PUBLIC src)
